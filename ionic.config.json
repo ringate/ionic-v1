@@ -1,0 +1,17 @@
+{
+  "name": "mynewapp",
+  "app_id": "",
+  "type": "ionic1",
+  "integrations": {
+    "gulp": {},
+    "cordova": {}
+  },
+  "watchPatterns": [
+    "src/js/**/*.js",
+    "scss/**/*",
+    "www/**/*",
+    "!.DS_Store",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
